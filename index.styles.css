@@ -245,3 +245,12 @@ ul.rb li .timestamp {
   max-height: 300px;
   border-radius: 5px;
 }
+
+/* Githubstats */
+.github-stats-images{
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+.github-stats-images img{
+  height: 12.5rem;
+}
