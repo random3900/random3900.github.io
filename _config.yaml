@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Roopa G
 description: Bookmark this to keep an eye on my project updates!
-include: ["_posts/"]
+include: ['_posts/']
