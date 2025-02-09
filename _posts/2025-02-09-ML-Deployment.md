@@ -19,7 +19,7 @@ categories: ML
 
 ## Batch Prediction Versus Online Prediction
 
-![Prediction](/_posts/Prediction.png)
+![Prediction](/images/Prediction.png)
 
 Two components are required to improve online prediction latency:
 
@@ -28,4 +28,4 @@ Two components are required to improve online prediction latency:
 
 ## Optimization
 
-![Optimization](/_posts/Optimization.png)
+![Optimization](/images/Optimization.png)
