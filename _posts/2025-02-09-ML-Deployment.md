@@ -15,7 +15,7 @@ categories: ML
 
 ## Machine Learning Deployment Myths
 
-![ML Deployment Myths](/_posts/MLDeploymentMyths.png)
+![ML Deployment Myths](/images/MLDeploymentMyths.png)
 
 ## Batch Prediction Versus Online Prediction
 
