@@ -5,7 +5,7 @@ date: 2025-02-08 00:00:00
 categories: ML
 ---
 
-# CS7641 - Machine Learning
+# ML Deployment
 
 *This blog contains my notes of Chapter 7. Model Deployment and Prediction Service from [Designing Machine Learning Systems by Chip Huyen](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/).*
 
