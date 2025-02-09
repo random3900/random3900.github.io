@@ -15,11 +15,11 @@ categories: ML
 
 ## Machine Learning Deployment Myths
 
-![ML Deployment Myths](/images/MLDeploymentMyths.png)
+![ML Deployment Myths](https://github.com/groopav/random3900.github.io/blob/main/images/MLDeploymentMyths.png)
 
 ## Batch Prediction Versus Online Prediction
 
-![Prediction](/images/Prediction.png)
+![Prediction](https://github.com/groopav/random3900.github.io/blob/main/images/Prediction.png)
 
 Two components are required to improve online prediction latency:
 
@@ -28,4 +28,4 @@ Two components are required to improve online prediction latency:
 
 ## Optimization
 
-![Optimization](/images/Optimization.png)
+![Optimization](https://github.com/groopav/random3900.github.io/blob/main/images/Optimization.png)
