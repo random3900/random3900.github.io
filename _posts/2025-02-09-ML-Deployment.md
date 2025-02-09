@@ -15,11 +15,11 @@ categories: ML
 
 ## Machine Learning Deployment Myths
 
-![ML Deployment Myths](MLDeploymentMyths.png)
+![ML Deployment Myths](_posts/MLDeploymentMyths.png)
 
 ## Batch Prediction Versus Online Prediction
 
-![Prediction](Prediction.png)
+![Prediction](_posts/Prediction.png)
 
 Two components are required to improve online prediction latency:
 
@@ -28,4 +28,4 @@ Two components are required to improve online prediction latency:
 
 ## Optimization
 
-![Optimization](Optimization.png)
+![Optimization](_posts/Optimization.png)
